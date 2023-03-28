@@ -3,8 +3,8 @@
 name: Update Website on New Issues
 
 on:
-  repository_dispatch:
-    types: [new_issue]
+  issues:
+    types: [opened]
     # Replace this with the name of the repository you want to watch for new issues
     repo: ultimatile/GHAtestB
 
