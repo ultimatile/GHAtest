@@ -1,0 +1,35 @@
+name: Fetch Nakasho JSON every 2 hours
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  fetch_nakasho_json:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Fetch Nakasho JSON
+      run: |
+        curl -R -z nakasho.json -o nakasho.json https://github.com/github-nakasho/quantph/issues
+    - name: Upload Nakasho JSON artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: nakasho.json
+        path: nakasho.json
+  commit_push_artifact:
+    needs: fetch_nakasho_json
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Commit changes
+      uses: actions/commit@v1
+      with:
+        author_name: "GitHub Actions"
+        author_email: "actions@github.com"
+        message: "Update nakasho.json"
+        path: "nakasho.json"
+    - name: Push changes
+      uses: actions/push@v2
+      with:
+        github_token: ${{ secrets.GH_TOKEN }}
