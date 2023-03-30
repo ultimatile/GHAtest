@@ -73,7 +73,7 @@
   <meta name="current-catalog-service-hash" content="81bb79d38c15960b92d99bca9288a9108c7a47b18f2423d0f6438c5b7bcd2114">
 
 
-  <meta name="request-id" content="7801:0596:C87528:D255C5:6424C6E6" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d35c8b7035da29933ecc67086c831ae568bbca4e0d9fbb2a267ad863d88979b9" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI3ODAxOjA1OTY6Qzg3NTI4OkQyNTVDNTo2NDI0QzZFNiIsInZpc2l0b3JfaWQiOiI3MDI3Mjg1MDc2MDI5NTIzNjg3IiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="514ac80d08c350524fb84578e3455b60dff7017eea1cbf0fc866101e310b4f31" data-pjax-transient="true"/>
+  <meta name="request-id" content="C841:2D68:9E3578:E9410A:6424FF4E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="7cb750ad3b9d03baf391c7c2dd9e3f0c390fade2c72bd719a0928b51db49fb3b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDODQxOjJENjg6OUUzNTc4OkU5NDEwQTo2NDI0RkY0RSIsInZpc2l0b3JfaWQiOiIxOTk4NjczMzgzNzQ0OTI5NjE0IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="e8cf90f527d6a1becbbc46e5844fe345718e29096966e8032fe3d961726b10a4" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:355965424" data-turbo-transient>
@@ -569,7 +569,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="ipy3a83ysYs3xnwATLpihdzV9qKWqOSIFsf8EEPJ3QKAwEGSTs6VrJ2SlvUT9RizdRVOpasxyxLOELO7GTEVKQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="0ymtbI5mBXbwIpIAHxQch60BKTZno9YKLIXZUSKjz2m8UiAo7G/NC2V2kviD6dfQ2TBM1Mhrzq03SAxg04upsQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -922,7 +922,7 @@
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
         <span data-content="Issues">Issues</span>
-          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="4,512" data-view-component="true" class="Counter">4.5k</span>
+          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="4,524" data-view-component="true" class="Counter">4.5k</span>
 
 
     
@@ -1155,7 +1155,7 @@
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-      4,512 Open
+      4,524 Open
     </a>
 
     <a href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aclosed" class="btn-link " data-ga-click="Issues, Table state, Closed">
@@ -1179,7 +1179,7 @@
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-      4,512 Open
+      4,524 Open
     </a>
 
     <a href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aclosed" class="btn-link " data-ga-click="Issues, Table state, Closed">
@@ -1470,6 +1470,714 @@
         <div aria-label="Issues" role="group" data-issue-and-pr-hovercards-enabled>
           <div class="js-navigation-container js-active-navigation-container" data-hpc>
                 
+<div id="issue_4527" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646682094" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4527_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4527/hovercard" href="/github-nakasho/quantph/issues/4527">Mapping quantum algorithms to multi-core quantum computing architectures</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-e7af6e" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%88%86%E6%95%A3%E3%83%BB%E4%B8%A6%E5%88%97%E9%87%8F%E5%AD%90%E8%A8%88%E7%AE%97" data-name="分散・並列量子計算" style="--label-r:197;--label-g:222;--label-b:245;--label-h:208;--label-s:70;--label-l:86;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                分散・並列量子計算
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4527
+            opened <relative-time datetime="2023-03-29T23:40:18Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Mapping quantum algorithms to multi-core quantum computing architectures" href="/github-nakasho/quantph/issues/4527"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4526" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646681132" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4526_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4526/hovercard" href="/github-nakasho/quantph/issues/4526">Increasing error tolerance in quantum computers with dynamic bias arrangement</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-34e24d" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E3%83%BB%E7%B7%A9%E5%92%8C" data-name="量子誤り訂正・緩和" style="--label-r:160;--label-g:219;--label-b:6;--label-h:76;--label-s:94;--label-l:44;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子誤り訂正・緩和
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4526
+            opened <relative-time datetime="2023-03-29T23:38:57Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Increasing error tolerance in quantum computers with dynamic bias arrangement" href="/github-nakasho/quantph/issues/4526"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4525" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646680492" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4525_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4525/hovercard" href="/github-nakasho/quantph/issues/4525">Sparse Blossom: correcting a million errors per core second with minimum-weight matching</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-e272b7" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E3%83%BB%E7%B7%A9%E5%92%8C" data-name="量子誤り訂正・緩和" style="--label-r:160;--label-g:219;--label-b:6;--label-h:76;--label-s:94;--label-l:44;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子誤り訂正・緩和
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4525
+            opened <relative-time datetime="2023-03-29T23:37:50Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Sparse Blossom: correcting a million errors per core second with minimum-weight matching" href="/github-nakasho/quantph/issues/4525"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4524" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646679901" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4524_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4524/hovercard" href="/github-nakasho/quantph/issues/4524">Efficacy of virtual purification-based error mitigation on quantum metrology</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-f39a56" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E3%83%BB%E7%B7%A9%E5%92%8C" data-name="量子誤り訂正・緩和" style="--label-r:160;--label-g:219;--label-b:6;--label-h:76;--label-s:94;--label-l:44;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子誤り訂正・緩和
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4524
+            opened <relative-time datetime="2023-03-29T23:36:56Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Efficacy of virtual purification-based error mitigation on quantum metrology" href="/github-nakasho/quantph/issues/4524"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4523" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646679506" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4523_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4523/hovercard" href="/github-nakasho/quantph/issues/4523">Topological Single Photon Emission from Quantum Emitter Chains</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-01b67b" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E3%83%BB%E5%A0%B4%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96%E3%83%BB%E9%87%8F%E5%AD%90%E6%83%85%E5%A0%B1%E7%90%86%E8%AB%96%E3%81%AA%E3%81%A9" data-name="量子力学・場の量子論・量子情報理論など" style="--label-r:23;--label-g:43;--label-b:33;--label-h:150;--label-s:30;--label-l:12;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子力学・場の量子論・量子情報理論など
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4523
+            opened <relative-time datetime="2023-03-29T23:36:18Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Topological Single Photon Emission from Quantum Emitter Chains" href="/github-nakasho/quantph/issues/4523"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4522" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646678814" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4522_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4522/hovercard" href="/github-nakasho/quantph/issues/4522">Experimental Twin-Field Quantum Key Distribution Over 1000 km Fiber Distance</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-b8f799" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E9%8D%B5%E9%85%8D%E9%80%81%E3%83%BB%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1%E3%83%BB%E9%87%8F%E5%AD%90%E6%9A%97%E5%8F%B7" data-name="量子鍵配送・量子通信・量子暗号" style="--label-r:249;--label-g:208;--label-b:196;--label-h:13;--label-s:81;--label-l:87;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子鍵配送・量子通信・量子暗号
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4522
+            opened <relative-time datetime="2023-03-29T23:35:07Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Experimental Twin-Field Quantum Key Distribution Over 1000 km Fiber Distance" href="/github-nakasho/quantph/issues/4522"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4521" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646678133" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4521_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4521/hovercard" href="/github-nakasho/quantph/issues/4521">iQuantum: A Case for Modeling and Simulation of Quantum Computing Environments</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-0535e4" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%83%BB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA" data-name="量子プログラミング言語・ソフトウェア開発" style="--label-r:246;--label-g:179;--label-b:204;--label-h:337;--label-s:78;--label-l:83;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子プログラミング言語・ソフトウェア開発
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4521
+            opened <relative-time datetime="2023-03-29T23:34:03Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. iQuantum: A Case for Modeling and Simulation of Quantum Computing Environments" href="/github-nakasho/quantph/issues/4521"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4520" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646677713" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4520_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4520/hovercard" href="/github-nakasho/quantph/issues/4520">Computation of Green's function by local variational quantum compilation</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-8ea2e7" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E5%8F%A4%E5%85%B8%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89" data-name="量子古典ハイブリッド" style="--label-r:102;--label-g:69;--label-b:104;--label-h:296;--label-s:20;--label-l:33;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子古典ハイブリッド
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4520
+            opened <relative-time datetime="2023-03-29T23:33:23Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Computation of Green&#39;s function by local variational quantum compilation" href="/github-nakasho/quantph/issues/4520"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4519" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646677160" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4519_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4519/hovercard" href="/github-nakasho/quantph/issues/4519">Feature Map for Quantum Data: Probabilistic Manipulation</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-82e877" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92" data-name="量子機械学習" style="--label-r:251;--label-g:124;--label-b:104;--label-h:8;--label-s:94;--label-l:69;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子機械学習
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4519
+            opened <relative-time datetime="2023-03-29T23:32:26Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Feature Map for Quantum Data: Probabilistic Manipulation" href="/github-nakasho/quantph/issues/4519"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4518" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646669147" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4518_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4518/hovercard" href="/github-nakasho/quantph/issues/4518">A Framework for Demonstrating Practical Quantum Advantage: Racing Quantum against Classical Generative Models</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-22d5d9" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92" data-name="量子機械学習" style="--label-r:251;--label-g:124;--label-b:104;--label-h:8;--label-s:94;--label-l:69;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子機械学習
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4518
+            opened <relative-time datetime="2023-03-29T23:19:27Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. A Framework for Demonstrating Practical Quantum Advantage: Racing Quantum against Classical Generative Models" href="/github-nakasho/quantph/issues/4518"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4517" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646668635" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4517_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4517/hovercard" href="/github-nakasho/quantph/issues/4517">Transversal Diagonal Logical Operators for Stabiliser Codes</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-cdb5ef" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E3%83%BB%E7%B7%A9%E5%92%8C" data-name="量子誤り訂正・緩和" style="--label-r:160;--label-g:219;--label-b:6;--label-h:76;--label-s:94;--label-l:44;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子誤り訂正・緩和
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4517
+            opened <relative-time datetime="2023-03-29T23:18:40Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Transversal Diagonal Logical Operators for Stabiliser Codes" href="/github-nakasho/quantph/issues/4517"></a>
+  </div>
+</div>
+
+                
+<div id="issue_4516" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646668250" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+  <div class="d-flex Box-row--drag-hide position-relative">
+
+
+    <div class="flex-shrink-0 pt-2 pl-3">
+      <span class="tooltipped tooltipped-e" aria-label="Open issue">
+        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
+      </span>
+    </div>
+
+    <!-- Issue title column -->
+    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
+
+      <a id="issue_4516_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4516/hovercard" href="/github-nakasho/quantph/issues/4516">Simultaneous quantum estimation of phase and indistinguishability in a two photon interferometer</a>
+        <span class="lh-default d-block d-md-inline">
+              
+<a id="label-03379f" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E3%83%BB%E5%A0%B4%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96%E3%83%BB%E9%87%8F%E5%AD%90%E6%83%85%E5%A0%B1%E7%90%86%E8%AB%96%E3%81%AA%E3%81%A9" data-name="量子力学・場の量子論・量子情報理論など" style="--label-r:23;--label-g:43;--label-b:33;--label-h:150;--label-s:30;--label-l:12;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+                量子力学・場の量子論・量子情報理論など
+</a>
+        </span>
+      <div class="d-flex mt-1 text-small color-fg-muted">
+        <span class="opened-by">
+          #4516
+            opened <relative-time datetime="2023-03-29T23:18:03Z" class="no-wrap">Mar 29, 2023</relative-time> by
+            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
+            
+        </span>
+
+        <span class="d-none d-md-inline-flex">
+
+
+        
+        </span>
+
+      </div>
+    </div>
+
+    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+            aria-label="Assigned to ">
+          </div>
+        </div>
+      </span>
+
+      <span class="ml-2 flex-1 flex-shrink-0">
+      </span>
+    </div>
+
+      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Simultaneous quantum estimation of phase and indistinguishability in a two photon interferometer" href="/github-nakasho/quantph/issues/4516"></a>
+  </div>
+</div>
+
+                
 <div id="issue_4515" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1646667449" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
   <div class="d-flex Box-row--drag-hide position-relative">
 
@@ -1486,7 +2194,7 @@
       <a id="issue_4515_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4515/hovercard" href="/github-nakasho/quantph/issues/4515">Is there a Moore's law for quantum computing?</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-b8ab8a" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-8f3531" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子ビット・ゲート・ハード開発
 </a>
         </span>
@@ -1545,7 +2253,7 @@
       <a id="issue_4514_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4514/hovercard" href="/github-nakasho/quantph/issues/4514">Leveraging Hamiltonian Simulation Techniques to Compile Operations on Bosonic Devices</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-499862" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-cfa879" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子ビット・ゲート・ハード開発
 </a>
         </span>
@@ -1604,7 +2312,7 @@
       <a id="issue_4513_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4513/hovercard" href="/github-nakasho/quantph/issues/4513">Relativistic quantum communication between harmonic oscillator detectors</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-575359" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E3%83%BB%E5%A0%B4%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96%E3%83%BB%E9%87%8F%E5%AD%90%E6%83%85%E5%A0%B1%E7%90%86%E8%AB%96%E3%81%AA%E3%81%A9" data-name="量子力学・場の量子論・量子情報理論など" style="--label-r:23;--label-g:43;--label-b:33;--label-h:150;--label-s:30;--label-l:12;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-6d96c0" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E3%83%BB%E5%A0%B4%E3%81%AE%E9%87%8F%E5%AD%90%E8%AB%96%E3%83%BB%E9%87%8F%E5%AD%90%E6%83%85%E5%A0%B1%E7%90%86%E8%AB%96%E3%81%AA%E3%81%A9" data-name="量子力学・場の量子論・量子情報理論など" style="--label-r:23;--label-g:43;--label-b:33;--label-h:150;--label-s:30;--label-l:12;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子力学・場の量子論・量子情報理論など
 </a>
         </span>
@@ -1663,7 +2371,7 @@
       <a id="issue_4512_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4512/hovercard" href="/github-nakasho/quantph/issues/4512">On the stability of solutions to Schrödinger's equation short of the adiabatic limit</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-9187c6" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%A2%E3%83%8B%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E6%96%AD%E7%86%B1%E9%87%8F%E5%AD%90%E8%A8%88%E7%AE%97" data-name="量子アニーリング・断熱量子計算" style="--label-r:119;--label-g:151;--label-b:245;--label-h:224;--label-s:86;--label-l:71;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-4632df" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%A2%E3%83%8B%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E6%96%AD%E7%86%B1%E9%87%8F%E5%AD%90%E8%A8%88%E7%AE%97" data-name="量子アニーリング・断熱量子計算" style="--label-r:119;--label-g:151;--label-b:245;--label-h:224;--label-s:86;--label-l:71;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子アニーリング・断熱量子計算
 </a>
         </span>
@@ -1722,7 +2430,7 @@
       <a id="issue_4511_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4511/hovercard" href="/github-nakasho/quantph/issues/4511">Calculating the many-body density of states on a digital quantum computer</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-ae010c" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0" data-name="量子アルゴリズム" style="--label-r:109;--label-g:146;--label-b:160;--label-h:196;--label-s:21;--label-l:52;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-8fbbb8" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0" data-name="量子アルゴリズム" style="--label-r:109;--label-g:146;--label-b:160;--label-h:196;--label-s:21;--label-l:52;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子アルゴリズム
 </a>
         </span>
@@ -1781,7 +2489,7 @@
       <a id="issue_4510_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4510/hovercard" href="/github-nakasho/quantph/issues/4510">Generalization with quantum geometry for learning unitaries</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-40188d" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92" data-name="量子機械学習" style="--label-r:251;--label-g:124;--label-b:104;--label-h:8;--label-s:94;--label-l:69;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-96fd85" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92" data-name="量子機械学習" style="--label-r:251;--label-g:124;--label-b:104;--label-h:8;--label-s:94;--label-l:69;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子機械学習
 </a>
         </span>
@@ -1840,7 +2548,7 @@
       <a id="issue_4509_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4509/hovercard" href="/github-nakasho/quantph/issues/4509"> All this for one qubit? Bounds on local circuit cutting schemes</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-bf8f06" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9" data-name="量子コンパイラ" style="--label-r:197;--label-g:222;--label-b:245;--label-h:208;--label-s:70;--label-l:86;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-7a5e4e" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9" data-name="量子コンパイラ" style="--label-r:197;--label-g:222;--label-b:245;--label-h:208;--label-s:70;--label-l:86;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子コンパイラ
 </a>
         </span>
@@ -1899,7 +2607,7 @@
       <a id="issue_4508_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4508/hovercard" href="/github-nakasho/quantph/issues/4508">Bridging closed and dissipative discrete time crystals in spin systems with infinite-range interactions</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-6c78b1" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%86%B1%E5%8A%9B%E5%AD%A6%E3%83%BB%E7%B5%B1%E8%A8%88%E3%83%BB%E9%9D%9E%E5%B9%B3%E8%A1%A1%E7%B5%B1%E8%A8%88%E5%8A%9B%E5%AD%A6" data-name="熱力学・統計・非平衡統計力学" style="--label-r:194;--label-g:224;--label-b:198;--label-h:128;--label-s:32;--label-l:81;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-b5f240" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%86%B1%E5%8A%9B%E5%AD%A6%E3%83%BB%E7%B5%B1%E8%A8%88%E3%83%BB%E9%9D%9E%E5%B9%B3%E8%A1%A1%E7%B5%B1%E8%A8%88%E5%8A%9B%E5%AD%A6" data-name="熱力学・統計・非平衡統計力学" style="--label-r:194;--label-g:224;--label-b:198;--label-h:128;--label-s:32;--label-l:81;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 熱力学・統計・非平衡統計力学
 </a>
         </span>
@@ -1958,7 +2666,7 @@
       <a id="issue_4507_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4507/hovercard" href="/github-nakasho/quantph/issues/4507">Universal and ultrafast quantum computation based on free-electron-polariton blockade</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-23b674" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-b6e607" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子ビット・ゲート・ハード開発
 </a>
         </span>
@@ -2017,7 +2725,7 @@
       <a id="issue_4506_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4506/hovercard" href="/github-nakasho/quantph/issues/4506">Particle track reconstruction with noisy intermediate-scale quantum computers</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-64e754" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3APoC" data-name="PoC" style="--label-r:172;--label-g:29;--label-b:243;--label-h:280;--label-s:89;--label-l:53;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-372bca" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3APoC" data-name="PoC" style="--label-r:172;--label-g:29;--label-b:243;--label-h:280;--label-s:89;--label-l:53;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 PoC
 </a>
         </span>
@@ -2076,7 +2784,7 @@
       <a id="issue_4505_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4505/hovercard" href="/github-nakasho/quantph/issues/4505">Partially Fault-tolerant Quantum Computing Architecture with Error-corrected Clifford Gates and Space-time Efficient Analog Rotations</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-d456d5" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E3%83%BB%E7%B7%A9%E5%92%8C" data-name="量子誤り訂正・緩和" style="--label-r:160;--label-g:219;--label-b:6;--label-h:76;--label-s:94;--label-l:44;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-910f48" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E3%83%BB%E7%B7%A9%E5%92%8C" data-name="量子誤り訂正・緩和" style="--label-r:160;--label-g:219;--label-b:6;--label-h:76;--label-s:94;--label-l:44;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子誤り訂正・緩和
 </a>
         </span>
@@ -2135,7 +2843,7 @@
       <a id="issue_4504_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4504/hovercard" href="/github-nakasho/quantph/issues/4504">Optimizing QAOA on Bipotent Architectures</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-95ebb6" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E5%8F%A4%E5%85%B8%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89" data-name="量子古典ハイブリッド" style="--label-r:102;--label-g:69;--label-b:104;--label-h:296;--label-s:20;--label-l:33;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-3fb8ff" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E5%8F%A4%E5%85%B8%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89" data-name="量子古典ハイブリッド" style="--label-r:102;--label-g:69;--label-b:104;--label-h:296;--label-s:20;--label-l:33;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子古典ハイブリッド
 </a>
         </span>
@@ -2194,7 +2902,7 @@
       <a id="issue_4503_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4503/hovercard" href="/github-nakasho/quantph/issues/4503">Exponential quantum speedup in simulating coupled classical oscillators</a>
         <span class="lh-default d-block d-md-inline">
               
-<a id="label-3e3c27" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0" data-name="量子アルゴリズム" style="--label-r:109;--label-g:146;--label-b:160;--label-h:196;--label-s:21;--label-l:52;" data-view-component="true" class="IssueLabel hx_IssueLabel">
+<a id="label-617b6e" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0" data-name="量子アルゴリズム" style="--label-r:109;--label-g:146;--label-b:160;--label-h:196;--label-s:21;--label-l:52;" data-view-component="true" class="IssueLabel hx_IssueLabel">
                 量子アルゴリズム
 </a>
         </span>
@@ -2236,718 +2944,6 @@
   </div>
 </div>
 
-                
-<div id="issue_4502" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1640177727" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4502_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4502/hovercard" href="/github-nakasho/quantph/issues/4502">Optimal Synthesis of Multi-Controlled Qudit Gates</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-51cf15" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                量子ビット・ゲート・ハード開発
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4502
-            opened <relative-time datetime="2023-03-24T23:16:33Z" class="no-wrap">Mar 24, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Optimal Synthesis of Multi-Controlled Qudit Gates" href="/github-nakasho/quantph/issues/4502"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4501" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1640173751" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4501_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4501/hovercard" href="/github-nakasho/quantph/issues/4501">Variational Quantum Time Evolution without the Quantum Geometric Tensor</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-3e6970" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E5%8F%A4%E5%85%B8%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89" data-name="量子古典ハイブリッド" style="--label-r:102;--label-g:69;--label-b:104;--label-h:296;--label-s:20;--label-l:33;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                量子古典ハイブリッド
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4501
-            opened <relative-time datetime="2023-03-24T23:11:12Z" class="no-wrap">Mar 24, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Variational Quantum Time Evolution without the Quantum Geometric Tensor" href="/github-nakasho/quantph/issues/4501"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4500" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1640173347" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4500_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4500/hovercard" href="/github-nakasho/quantph/issues/4500">The power and limitations of learning quantum dynamics incoherently</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-05003f" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92" data-name="量子機械学習" style="--label-r:251;--label-g:124;--label-b:104;--label-h:8;--label-s:94;--label-l:69;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                量子機械学習
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4500
-            opened <relative-time datetime="2023-03-24T23:10:35Z" class="no-wrap">Mar 24, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. The power and limitations of learning quantum dynamics incoherently" href="/github-nakasho/quantph/issues/4500"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4499" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1638445704" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4499_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4499/hovercard" href="/github-nakasho/quantph/issues/4499">Training Multilayer Perceptrons by Sampling with Quantum Annealers</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-686321" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%A2%E3%83%8B%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E6%96%AD%E7%86%B1%E9%87%8F%E5%AD%90%E8%A8%88%E7%AE%97" data-name="量子アニーリング・断熱量子計算" style="--label-r:119;--label-g:151;--label-b:245;--label-h:224;--label-s:86;--label-l:71;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                量子アニーリング・断熱量子計算
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4499
-            opened <relative-time datetime="2023-03-23T22:47:32Z" class="no-wrap">Mar 23, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Training Multilayer Perceptrons by Sampling with Quantum Annealers" href="/github-nakasho/quantph/issues/4499"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4498" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1638445262" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4498_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4498/hovercard" href="/github-nakasho/quantph/issues/4498">Ultrafast artificial intelligence: Machine learning with atomic-scale quantum systems</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-c5c3c5" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                量子ビット・ゲート・ハード開発
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4498
-            opened <relative-time datetime="2023-03-23T22:46:57Z" class="no-wrap">Mar 23, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Ultrafast artificial intelligence: Machine learning with atomic-scale quantum systems" href="/github-nakasho/quantph/issues/4498"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4497" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1638444756" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4497_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4497/hovercard" href="/github-nakasho/quantph/issues/4497">Reply to: Inability of a graph neural network heuristic to outperform greedy algorithms in solving combinatorial optimization problems</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-e24744" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%8F%A4%E5%85%B8%E8%A8%88%E7%AE%97%E3%83%BB%E5%8F%A4%E5%85%B8%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0" data-name="古典計算・古典アルゴリズム" style="--label-r:206;--label-g:17;--label-b:144;--label-h:319;--label-s:84;--label-l:43;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                古典計算・古典アルゴリズム
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4497
-            opened <relative-time datetime="2023-03-23T22:46:19Z" class="no-wrap">Mar 23, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Reply to: Inability of a graph neural network heuristic to outperform greedy algorithms in solving combinatorial optimization problems" href="/github-nakasho/quantph/issues/4497"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4496" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1638444258" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4496_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4496/hovercard" href="/github-nakasho/quantph/issues/4496">QBithm: towards the coherent control of robust spin qubits in quantum algorithms</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-e46277" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                量子ビット・ゲート・ハード開発
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4496
-            opened <relative-time datetime="2023-03-23T22:45:39Z" class="no-wrap">Mar 23, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. QBithm: towards the coherent control of robust spin qubits in quantum algorithms" href="/github-nakasho/quantph/issues/4496"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4495" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1638443804" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4495_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4495/hovercard" href="/github-nakasho/quantph/issues/4495">A real world test of Portfolio Optimization with Quantum Annealing</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-0f2f12" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3APoC" data-name="PoC" style="--label-r:172;--label-g:29;--label-b:243;--label-h:280;--label-s:89;--label-l:53;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                PoC
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4495
-            opened <relative-time datetime="2023-03-23T22:45:02Z" class="no-wrap">Mar 23, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. A real world test of Portfolio Optimization with Quantum Annealing" href="/github-nakasho/quantph/issues/4495"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4494" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1638443379" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4494_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4494/hovercard" href="/github-nakasho/quantph/issues/4494">Experimental Implementation of Short-Path Non-adiabatic Geometric Gates in a Superconducting Circuit</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-a8063e" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%83%93%E3%83%83%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA" data-name="量子ビット・ゲート・ハード開発" style="--label-r:182;--label-g:2;--label-b:5;--label-h:359;--label-s:97;--label-l:36;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                量子ビット・ゲート・ハード開発
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4494
-            opened <relative-time datetime="2023-03-23T22:44:28Z" class="no-wrap">Mar 23, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Experimental Implementation of Short-Path Non-adiabatic Geometric Gates in a Superconducting Circuit" href="/github-nakasho/quantph/issues/4494"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4493" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1638442932" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4493_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4493/hovercard" href="/github-nakasho/quantph/issues/4493">GSQAS: Graph Self-supervised Quantum Architecture Search</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-c6d9e1" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9" data-name="量子コンパイラ" style="--label-r:197;--label-g:222;--label-b:245;--label-h:208;--label-s:70;--label-l:86;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                量子コンパイラ
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4493
-            opened <relative-time datetime="2023-03-23T22:43:51Z" class="no-wrap">Mar 23, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. GSQAS: Graph Self-supervised Quantum Architecture Search" href="/github-nakasho/quantph/issues/4493"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4492" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1638441834" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4492_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4492/hovercard" href="/github-nakasho/quantph/issues/4492">Quantum non-Markovianity: Overview and recent developments</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-f53aa6" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%83%BB%E8%AC%9B%E7%BE%A9%E3%83%8E%E3%83%BC%E3%83%88%E3%83%BB%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87%E3%81%AA%E3%81%A9" data-name="レビュー・講義ノート・学位論文など" style="--label-r:151;--label-g:44;--label-b:38;--label-h:3;--label-s:59;--label-l:37;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                レビュー・講義ノート・学位論文など
-</a>
-              
-<a id="label-1092dd" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%86%B1%E5%8A%9B%E5%AD%A6%E3%83%BB%E7%B5%B1%E8%A8%88%E3%83%BB%E9%9D%9E%E5%B9%B3%E8%A1%A1%E7%B5%B1%E8%A8%88%E5%8A%9B%E5%AD%A6" data-name="熱力学・統計・非平衡統計力学" style="--label-r:194;--label-g:224;--label-b:198;--label-h:128;--label-s:32;--label-l:81;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                熱力学・統計・非平衡統計力学
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4492
-            opened <relative-time datetime="2023-03-23T22:42:29Z" class="no-wrap">Mar 23, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Quantum non-Markovianity: Overview and recent developments" href="/github-nakasho/quantph/issues/4492"></a>
-  </div>
-</div>
-
-                
-<div id="issue_4491" class="Box-row Box-row--focus-gray p-0 mt-0 js-navigation-item js-issue-row" data-id="1638441361" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-  <div class="d-flex Box-row--drag-hide position-relative">
-
-
-    <div class="flex-shrink-0 pt-2 pl-3">
-      <span class="tooltipped tooltipped-e" aria-label="Open issue">
-        <svg class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path></svg>
-      </span>
-    </div>
-
-    <!-- Issue title column -->
-    <div class="flex-auto min-width-0 p-2 pr-3 pr-md-2">
-
-      <a id="issue_4491_link" class="Link--primary v-align-middle no-underline h4 js-navigation-open markdown-title" data-hovercard-type="issue" data-hovercard-url="/github-nakasho/quantph/issues/4491/hovercard" href="/github-nakasho/quantph/issues/4491">Observation of localization using a noisy quantum computer</a>
-        <span class="lh-default d-block d-md-inline">
-              
-<a id="label-887b01" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%86%B1%E5%8A%9B%E5%AD%A6%E3%83%BB%E7%B5%B1%E8%A8%88%E3%83%BB%E9%9D%9E%E5%B9%B3%E8%A1%A1%E7%B5%B1%E8%A8%88%E5%8A%9B%E5%AD%A6" data-name="熱力学・統計・非平衡統計力学" style="--label-r:194;--label-g:224;--label-b:198;--label-h:128;--label-s:32;--label-l:81;" data-view-component="true" class="IssueLabel hx_IssueLabel">
-                熱力学・統計・非平衡統計力学
-</a>
-        </span>
-      <div class="d-flex mt-1 text-small color-fg-muted">
-        <span class="opened-by">
-          #4491
-            opened <relative-time datetime="2023-03-23T22:41:53Z" class="no-wrap">Mar 23, 2023</relative-time> by
-            <a class="Link--muted" title="Open issues created by github-nakasho" data-hovercard-type="user" data-hovercard-url="/users/github-nakasho/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+author%3Agithub-nakasho">github-nakasho</a>
-            
-        </span>
-
-        <span class="d-none d-md-inline-flex">
-
-
-        
-        </span>
-
-      </div>
-    </div>
-
-    <div class="flex-shrink-0 col-4 col-md-3 pt-2 text-right pr-3 no-wrap d-flex hide-sm ">
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-        <div class="AvatarStack AvatarStack--right ml-2 flex-1 flex-shrink-0 ">
-          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
-            aria-label="Assigned to ">
-          </div>
-        </div>
-      </span>
-
-      <span class="ml-2 flex-1 flex-shrink-0">
-      </span>
-    </div>
-
-      <a class="d-block d-md-none position-absolute top-0 bottom-0 left-0 right-0" aria-label="Link to Issue. Observation of localization using a noisy quantum computer" href="/github-nakasho/quantph/issues/4491"></a>
-  </div>
-</div>
-
           </div>
         </div>
     </div>
@@ -2965,7 +2961,7 @@
     <path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path>
 </svg>
   <strong class="color-fg-default">ProTip!</strong>
-  What’s not been updated in a month: <a href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+updated%3A%3C2023-02-28">updated:&lt;2023-02-28</a>.
+  Updated in the last three days: <a href="/github-nakasho/quantph/issues?q=is%3Aissue+is%3Aopen+updated%3A%3E2023-03-26">updated:&gt;2023-03-26</a>.
 </div>
 
 
