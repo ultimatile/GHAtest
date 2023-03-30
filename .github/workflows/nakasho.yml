@@ -1,8 +1,8 @@
-name: Fetch Nakasho JSON every 2 hours
+name: Fetch Nakasho JSON every 4 hours
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   commit:
