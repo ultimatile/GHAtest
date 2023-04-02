@@ -1,14 +1,14 @@
-name: Fetch Nakasho JSON every 4 hours
+name: Fetch Nakasho JSON every day
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - run: curl -R -z nakasho.json -o nakasho.json https://api.github.com/repos/github-nakasho/quantph/issues
       - name: Diff
         id: diff
